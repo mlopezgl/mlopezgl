@@ -1,11 +1,11 @@
 
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hola, soy Monica Lopez
 
+Soy Consultora TI, con más de 10 años de experiencia en tecnologías de la Información, he colaborado para CPS Media, Pulso Inmobiliario, Velas Resorts. Actualmente sigo capacitandome y espero llegar a ser un Full Stack Developer, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y nunca parar de aprender.
+
 :computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
 
 :pencil: **Generador de contenido**  
-
-:mag: **Me gusta investigar sobre cualquier tema que ignore y me ayude a ser mejor profesional, no me gusta quedarme con la duda de nada**
 
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
 
