@@ -20,7 +20,5 @@
 
 [website]: http://axioma.network/
 [twitter]: https://twitter.com/mlopezglz
-[youtube]: https://www.youtube.com/c/AminEspinoza
-[linkedin]: https://www.linkedin.com/in/amin-espinoza-71b24661/
-[instagram]: https://www.instagram.com/aminespinoza10/
-[facebook]: https://www.facebook.com/aminespinoza
+[linkedin]: https://www.linkedin.com/in/mlopzgl/
+[facebook]: https://www.facebook.com/mlopezgl88
