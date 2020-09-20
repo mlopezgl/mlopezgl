@@ -9,7 +9,7 @@
 
 ### Vías de contacto
 
-[![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)][website]  
+[![Website](https://img.shields.io/badge/axioma.network-up-green?style=for-the-badge)][website]  
 [![Twitter](https://img.shields.io/twitter/follow/mlopezglz?style=for-the-badge)][twitter]
 
 [<img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png"/>][youtube]
