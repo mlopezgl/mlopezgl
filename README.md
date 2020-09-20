@@ -11,16 +11,17 @@
 
 :briefcase: **Axioma Network**
 
-📊 **Tengo experiencia**
-<!--START_SECTION:waka-->
-```text
-TypeScript   3 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.66 % 
-JavaScript   2 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 % 
-JSON         1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-HTML         1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Python       49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-```
-<!--END_SECTION:waka-->
+📊 **Lenguajes y Herramientas que Domino**
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+
 
 ### Vías de contacto
 
