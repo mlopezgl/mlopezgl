@@ -2,8 +2,13 @@
 # Hola, soy Monica Lopez
 
 :computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
+
+:iphone: **322 263 4115**
+
 :pencil: **Generador de contenido**  
+
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
+
 :briefcase: **Axioma Network**
 
 
