@@ -9,7 +9,7 @@
 
 ### Vías de contacto
 
-[![Website](https://img.shields.io/badge/axioma.network-up-green?style=for-the-badge)][website]  
+[![Website](https://img.shields.io/website?down_message=online&label=Axioma%20Network&logo=http%3A%2F%2Faxioma.network%2Fwp-content%2Fuploads%2F2020%2F08%2FIsotipo.png&style=for-the-badge&up_color=green&url=http%3A%2F%2Faxioma.network)][website]  
 [![Twitter](https://img.shields.io/twitter/follow/mlopezglz?style=for-the-badge)][twitter]
 
 [<img src="https://img.icons8.com/doodle/48/000000/youtube--v1.png"/>][youtube]
