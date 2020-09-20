@@ -1,27 +1,11 @@
-### Hi there 👋
 
-<!--
-**mlopezgl/mlopezgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Monica Lopez
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hola, soy Amin Espinoza
-
-:computer: **Ingeniero de Software en Microsoft**  
+:computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
 :pencil: **Generador de contenido**  
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
-:oncoming_automobile: **Fan de los autos y carreras**  
-:family: **¡El papá más feliz del mundo!**
+:briefcase: **Axioma Network**
+:coffee: **Amante del  cafe**
 
 ### Vías de contacto
 
