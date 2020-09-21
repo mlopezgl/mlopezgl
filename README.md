@@ -5,7 +5,7 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 
  :thought_balloon: “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida" 
 
-<br><br>
+<br>
 :computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
 
 :pencil: **Generador de contenido**  
