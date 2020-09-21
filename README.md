@@ -13,7 +13,6 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
 
 :briefcase: **Axioma Network**
-
 <br>
 
 ### Lenguajes y Herramientas
@@ -39,7 +38,6 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 <br>
 
 ### Vías de contacto 
-<br>
 
 [<img title="Facebook" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img title="Twitter" src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>][twitter]
