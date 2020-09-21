@@ -1,9 +1,9 @@
-# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>  Hola, soy Monica Lopez
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>  Hola, soy Mónica López | Consultora
 <br>
 Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en tecnologías de la Información, he colaborado para CPS Media, Pulso Inmobiliario, Velas Resorts. Actualmente sigo capacitandome en las areas del Big Data y Diseño Web, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y nunca parar de aprender.
 <br><br>
 
-> “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida"
+ :thought_balloon: ** > “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida" **
 
 <br><br>
 :computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
