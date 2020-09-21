@@ -3,9 +3,9 @@
 Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en tecnologías de la Información, he colaborado para CPS Media, Pulso Inmobiliario, Velas Resorts. Actualmente sigo capacitandome en las areas del Big Data y Diseño Web, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y nunca parar de aprender.
 <br><br>
 
- :thought_balloon: “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida" 
-
+:thought_balloon: **“Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida"**
 <br>
+
 :computer: **Ingeniera en Tecnologías de la Información y Comunicaciones**  
 
 :pencil: **Generador de contenido**  
@@ -18,6 +18,7 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 ### Lenguajes y Herramientas
 
 <br>
+
 <code><img title="HTML5" height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img title="CSS3" height="50" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img title="JavaScript" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
