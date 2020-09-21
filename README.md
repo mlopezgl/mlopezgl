@@ -3,7 +3,7 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hola, soy Monica Lopez
 <br>
 Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en tecnologías de la Información, he colaborado para CPS Media, Pulso Inmobiliario, Velas Resorts. Actualmente sigo capacitandome en las areas del Big Data y Diseño Web, me apasiona la tecnología, busco oportunidades para aprender, apoyar, colaborar y nunca parar de aprender.
-
+<br><br>
 > “Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida"
 
 <br>
@@ -27,7 +27,6 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 <code><img title="C++" height="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img title="Java" height="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img title="MongoDB" height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
-<code><img title="SQL" height="40" src="https://img.icons8.com/ultraviolet/40/000000/database-export.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></code>
 <code></code>
 <code></code>
@@ -53,4 +52,4 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 [twitter]: https://twitter.com/mlopezglz
 [linkedin]: https://www.linkedin.com/in/mlopzgl/
 [facebook]: https://www.facebook.com/mlopezgl88
-[whatsapp]: wa.link/8x300u
+[whatsapp]: https://wa.link/8x300u
