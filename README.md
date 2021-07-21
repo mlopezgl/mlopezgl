@@ -25,6 +25,9 @@ Soy Consultora TI y de Marketing Digital, con más de 10 años de experiencia en
 <code><img title="NodeJS" height="60" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img title="PHP" height="60" src="https://img.icons8.com/officexs/80/000000/php-logo.png"/></code>
 <code><img title="C++" height="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img title="Angular" height="60" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
+<code><img title="Ionic" height="60" src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/></code>
+<code><img title="Flutter" height="60" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
 <code><img title="Java" height="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img title="MongoDB" height="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></code>
